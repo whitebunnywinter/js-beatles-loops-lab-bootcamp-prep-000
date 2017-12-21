@@ -17,6 +17,6 @@ function iLoveTheBeatles(num) {
   var array = {};
   do {
     
-  } whike ();
+  } while ();
 }
   
